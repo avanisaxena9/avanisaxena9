@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=125></img>
-  <div id="badges">
+  <div id="badges"><br>
+   Find me on: <br>
   <a href="https://www.linkedin.com/in/avani-saxena-7174851a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
