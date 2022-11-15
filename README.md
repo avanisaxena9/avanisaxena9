@@ -18,9 +18,12 @@ My name is Avani Saxena.
   </a>
   
 </div>
-</div>  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avanisaxena9&theme=dark)](https://git.io/streak-stats)
--### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
+ <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avanisaxena9&theme=dark)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=avanisaxena9"/></a>
+<img height="180em" src="(https://github-readme-streak-stats.herokuapp.com?user=avanisaxena9&theme=cobalt)](https://git.io/streak-stats)" />
+ -### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+</div>
 <!--
 **avanisaxena9/avanisaxena9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
