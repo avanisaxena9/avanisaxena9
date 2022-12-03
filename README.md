@@ -1,6 +1,6 @@
 ### Hi there! 👋  
-My name is Avani Saxena!
-I am an IT student
+My name is Avani Saxena!  
+I am an IT student at DAVV  
 
 
 <div id="header" align="center">
