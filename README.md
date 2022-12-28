@@ -55,6 +55,8 @@ My Stats :
 <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avanisaxena9&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats)
 
+<!-- CONTRIBUTION GRAPH: -->
+[![Avani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avanisaxena9&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avanisaxena9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
